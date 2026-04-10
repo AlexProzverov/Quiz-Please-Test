@@ -1,0 +1,23 @@
+# ninja log v5
+4140	6428	1775801172722583066	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4763e6dd3e52ff6d
+6679	6802	1775801173084739818	/Users/prozver/Documents/Quiz-Please-Test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2x3bj445/obj/arm64-v8a/libgame.so	3fae1f8840bb333a
+4144	6679	1775801172967325871	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	567c52c2b9f9c032
+6	5265	1775801171554297480	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	88118449cf528fc4
+1	5576	1775801171867305942	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2ec01e5cfe583231
+4448	4621	1775801170875998883	/Users/prozver/Documents/Quiz-Please-Test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2x3bj445/obj/arm64-v8a/libswappywrapper.so	1aeba558aea79b79
+3	4585	1775801170851792423	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b4d23b8339d62c3f
+4148	4448	1775801170750259539	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a20a31af34cbd2b3
+8	4148	1775801170423698690	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7ae40ee145c088d6
+1	4144	1775801170435827473	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c1a43bd3296f948f
+4	4131	1775801170423907762	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c2382c5fb7c947f4
+28	4421	1775803246836921802	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7ae40ee145c088d6
+25	4474	1775803246873817534	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c2382c5fb7c947f4
+22	4557	1775803246935344963	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c1a43bd3296f948f
+4557	4834	1775803247262575212	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a20a31af34cbd2b3
+24	4868	1775803247281856759	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b4d23b8339d62c3f
+4834	5200	1775803247575349187	/Users/prozver/Documents/Quiz-Please-Test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2x3bj445/obj/arm64-v8a/libswappywrapper.so	1aeba558aea79b79
+27	5633	1775803248041478245	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	88118449cf528fc4
+22	6008	1775803248399552554	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2ec01e5cfe583231
+4421	6864	1775803249275068883	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4763e6dd3e52ff6d
+4475	7122	1775803249538512181	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	567c52c2b9f9c032
+7122	7226	1775803249641544444	/Users/prozver/Documents/Quiz-Please-Test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2x3bj445/obj/arm64-v8a/libgame.so	3fae1f8840bb333a

@@ -1,0 +1,8 @@
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/prozver/Documents/Quiz-Please-Test/.utmp/RelWithDebInfo/2x3bj445/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
