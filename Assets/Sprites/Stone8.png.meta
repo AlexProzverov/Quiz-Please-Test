@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 378fb3830b014492b945ddc1096fbf86
+guid: 5fd764abb81c2400ab91437055ab6bfd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7484791778362217039
-    second: Stote_0
+      213: 6689351981377106716
+    second: Stone8_0
+  - first:
+      213: -5596126796203538685
+    second: Stone8_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -97,6 +100,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -113,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Stote_0
+      name: Stone8_0
       rect:
         serializedVersion: 2
-        x: 33
-        y: 17
-        width: 702
-        height: 517
+        x: 86
+        y: 42
+        width: 340
+        height: 432
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +144,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f425b0f57725fd760800000000000000
-      internalID: 7484791778362217039
+      spriteID: c13b9837f2a55dc50800000000000000
+      internalID: 6689351981377106716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone8_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 44
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074e3214509652b0800000000000000
+      internalID: -5596126796203538685
       vertices: []
       indices: 
       edges: []
@@ -138,7 +176,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Stote_0: 7484791778362217039
+      Stone8_0: 6689351981377106716
+      Stone8_1: -5596126796203538685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
